@@ -1,2 +1,3 @@
 # hello-world
-the first repository
+
+ Hi people, Hitarth here...I'm new to coding(a little experience in java and c++)
